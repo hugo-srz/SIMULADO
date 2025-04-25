@@ -1,0 +1,59 @@
+table{
+    height: 98vh;
+    width: 100%;
+    background-color: rgb(255, 253, 111);
+}
+.linha1{
+    height: 150px;
+}
+.linha2{
+    height: 100px;
+}
+.linha3{
+    height: 220px;
+}
+.linha4{
+    height: 50px;
+}
+.linha5{
+    height: 50px;
+}
+.td6{
+    width: 21%;
+    vertical-align: top;
+    text-align: center;
+}
+.coltext{
+    width: 20%;
+    text-align: justify; padding: 1%;
+}
+.td1{
+    width: 28%;
+}
+.td2{
+    width: 20%;
+}
+.td3{
+    width: 37%;
+}
+.td5{
+    width: 7%;
+}
+.td8{
+    width: 40%;
+    vertical-align: bottom;
+    text-align: left;
+}
+.td9{
+    width: 10%;
+}
+.td10{
+    width: ;
+}
+.td4{
+    width: 30%;
+}
+
+
+
+
